@@ -31,7 +31,7 @@ endpoints:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://172.18.0.2:8761/
+      defaultZone: http://172.18.0.2:8761/eureka
       
 #eureka:
   #client:
